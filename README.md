@@ -1,7 +1,7 @@
 # GlobalOptimisation
 Repository for first product of FYP, using a genetic algorithm to minimise rastrigins function
 
-##steps to run:
+## steps to run:
 1. install dependencies
     1a. download and install python from https://www.python.org/
         (make sure to tick add to path in the installer)
