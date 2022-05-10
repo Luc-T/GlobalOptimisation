@@ -14,8 +14,8 @@ Repository for first product of FYP, using a genetic algorithm to minimise rastr
         * pip install numpy
      
 2. in terminal navigate to GlobalOptimisation Folder
-3. 
-4. to execute type in console:
+
+3. to execute type in console:
     * python Areproduction.py
     * python Sreproduction.py
     * python A&Sreproduction.py
